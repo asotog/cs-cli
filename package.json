@@ -1,0 +1,14 @@
+{
+  "name": "blueprint-cli",
+  "version": "1.0.0",
+  "description": "blueprint tools",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alejandro soto",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.0.0"
+  }
+}
